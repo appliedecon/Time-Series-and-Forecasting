@@ -19,8 +19,7 @@ This serves as the repository for material related to DATA690 - Time Series Anal
 |12 |04/17|Complex Seasonality||  
 |13 |04/24|Additional Models and Techniques|HW 4 Assigned|    
 |14 |05/01|Practical Issues|HW 4 Due|     
-|15 |05/08|Practical Issues Continued||  
-|16| 05/15|Presentations|Final Due!|
+|15 |05/08|Final Presentations|Last Class, Presentations|  
 
 ## General Information
 We will generally follow the [Forecasting Principles and Practice](https://otexts.com/fpp3/) textbook by Rob J Hyndman and George Athanasopoulos. The notebooks and class slides are in part adapted from their text.
