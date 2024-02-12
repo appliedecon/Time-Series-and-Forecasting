@@ -40,5 +40,5 @@ We will generally follow the [Forecasting Principles and Practice](https://otext
 [R for Data Science](https://r4ds.hadley.nz/)
 
 ## Other Links of Interest
-[International Institute of Forecasters](https://forecasters.org/)
+[International Institute of Forecasters](https://forecasters.org/)  
 [Hyndsight Blog](https://robjhyndman.com/hyndsight/)
