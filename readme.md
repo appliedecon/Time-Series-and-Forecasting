@@ -11,14 +11,14 @@ This serves as the repository for material related to DATA690 - Time Series Anal
 |04 |02/21|Basic Forecasts and Judgement||
 |05 |02/28|Time Series Regression|HW 2 Assigned|  
 |06 |03/06|Exponential Smoothing|HW 2 Due|  
-|07 |03/13|ARIMA||  
+|07 |03/13|Mid-term Review||  
 |08 |03/20||Spring Break|  
 |09 |03/27|Mid-term Presentations|Mid-term Due!|  
-|10 |04/03|Dynamic Regression|HW 3 Assigned|  
-|11 |04/10|Grouped Data|HW 3 Due|    
-|12 |04/17|Complex Seasonality||  
-|13 |04/24|Additional Models and Techniques|HW 4 Assigned|    
-|14 |05/01|Practical Issues|HW 4 Due|     
+|10 |04/03|ARIMA|HW 3 Assigned|  
+|11 |04/10|Dynamic Regression|HW 3 Due|    
+|12 |04/17|Grouped Data||  
+|13 |04/24|Complex Seasonality and Practical Issues|HW 4 Assigned|    
+|14 |05/01|Additional Model and Techniques|HW 4 Due|     
 |15 |05/08|Final Presentations|Last Class, Presentations|  
 
 ## General Information
