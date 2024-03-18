@@ -17,7 +17,7 @@ This serves as the repository for material related to DATA690 - Time Series Anal
 |10 |04/03|ARIMA|HW 3 Assigned|  
 |11 |04/10|Dynamic Regression|HW 3 Due|    
 |12 |04/17|Grouped Data||  
-|13 |04/24|Complex Seasonality and Practical Issues|HW 4 Assigned|    
+|13 |04/24|Practical Issues|HW 4 Assigned|    
 |14 |05/01|Additional Model and Techniques|HW 4 Due|     
 |15 |05/08|Final Presentations|Last Class, Presentations|  
 
