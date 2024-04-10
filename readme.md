@@ -14,11 +14,11 @@ This serves as the repository for material related to DATA690 - Time Series Anal
 |07 |03/13|Mid-term Review||  
 |08 |03/20||Spring Break|  
 |09 |03/27|Mid-term Presentations|Mid-term Due!|  
-|10 |04/03|ARIMA|HW 3 Assigned|  
-|11 |04/10|Dynamic Regression|HW 3 Due|    
-|12 |04/17|Grouped Data||  
-|13 |04/24|Practical Issues|HW 4 Assigned|    
-|14 |05/01|Additional Model and Techniques|HW 4 Due|     
+|10 |04/03|ARIMA||  
+|11 |04/10|ARIMA and Dynamic Regression|HW 3 Assigned|    
+|12 |04/17|Grouped Data|HW 3 Due|  
+|13 |04/24|Practical Issues and Advanced Models||    
+|14 |05/01|Advanced Models and Techniques Continued||     
 |15 |05/08|Final Presentations|Last Class, Presentations|  
 
 ## General Information
