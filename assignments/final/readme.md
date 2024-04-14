@@ -3,8 +3,8 @@
 ## Description
 You can choose various items you forecast using the data. You will need to produce out-of-sample forecasts for the next 12 months. You must choose one of the following options:
 
-1. Using aggregated data, produce forecasts for four (4) different metrics. **You can use any of the metrics for this option.**
-2. Using data aggregated at the state, produce forecasts for one (1) metric that is based on counts (so it can be aggregated) for each state, including the national aggregate using the bottoms-up method. Compare your national forecast against one you create for that metric strictly at the national level. **You can only use the metrics that are counts for this option.** You will need to aggregate the data to national levels. For price and square feet, you will need to calculate weighted averages for aggregating by the county data.
+1. Using aggregated data, produce forecasts for four (4) different metrics. **You can use any of the metrics for this option. You will need to accurately calculate the national aggregates for the metrics - if using non-count metrics, you’ll need to calculate weighted averages.**
+2. Using data aggregated at the state, produce forecasts for one (1) metric that is based on counts (so it can be aggregated) for each state, including the national aggregate using the bottoms-up method. Compare your national forecast against one you create for that metric strictly at the national level. **You can only use the metrics that are counts for this option.**
 3. Produce forecasts at the county level for MD, VA, PA, DE, and NJ. Use a variety of techniques to forecast one metric for the county, state, and five-state aggregate. **You can only use the metrics that are counts for this option.**
 
 ## What Should be Included
